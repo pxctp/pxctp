@@ -24,7 +24,7 @@ suffix_list = ['_DayBar', '_SendOrder', '_RtnOrder']
 
 BROKER_ID = "9999"
 INVESTOR_ID = "105686"
-PASSWORD = "ftp123"
+PASSWORD = "passwd"
 
 #std ctp
 #ADDR_MD = "tcp://180.168.146.187:10010"
